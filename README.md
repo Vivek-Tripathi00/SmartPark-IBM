@@ -14,6 +14,8 @@
 ---
 
 ## 📌 Project Overview
+  <img src="SmartPark Enterprise IBM Report.pdf" alt="SmartPark Enterprise" width="100%"/>
+
 
 SmartPark Enterprise is a cloud-based intelligent parking management system designed to automate parking slot allocation, employee verification, vehicle registration, booking management, and parking ticket generation for enterprise organizations.
 
@@ -36,7 +38,7 @@ SmartPark Enterprise eliminates these challenges by automating the complete park
 ---
 
 ## 🚀 Key Features
-  <img src="Screenshot 2026-06-18 202909.png" alt="SmartPark Enterprise" width="100%"/>
+  <img src="Screenshot (90).png" alt="SmartPark Enterprise" width="100%"/>
 
 ### 👤 Employee Authentication
 
