@@ -3,7 +3,7 @@
 ### Intelligent Parking Management System for Enterprises
 
 <p align="center">
-  <img src="docs/images/smartpark-logo.png" alt="SmartPark Enterprise" width="180"/>
+  <img src="Screenshot 2026-06-18 202909.png" alt="SmartPark Enterprise" width="100%"/>
 </p>
 
 <p align="center">
@@ -36,6 +36,7 @@ SmartPark Enterprise eliminates these challenges by automating the complete park
 ---
 
 ## 🚀 Key Features
+  <img src="Screenshot 2026-06-18 202909.png" alt="SmartPark Enterprise" width="100%"/>
 
 ### 👤 Employee Authentication
 
